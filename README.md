@@ -4,7 +4,7 @@
 
 
 # a   sd
-_ez a szöveg dőlt betűs  lesz_
-*ez a szöveg dőlt betűs lesz*
-__ez a szöveg félkövér lesz?__
-**ez a szöveg félkövér lesz**
+_ez a  szöveg dőlt betűs  lesz_
+*ez a  szöveg dőlt betűs lesz*
+__ez a  szöveg félkövér lesz?__
+**ez a  szöveg félkövér lesz**
